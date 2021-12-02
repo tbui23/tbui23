@@ -1,0 +1,10 @@
+{
+  "HikingTrails":
+  [
+    {"title":"Rainbow Six Siege","description":"Rainbow Six Siege is a high-precision, tactical shooter that priortises careful planning teamwork and finely tuned tactical play","rage":"😤","image":"R6Cover.jpeg","site":"https://www.ubisoft.com/en-us/game/rainbow-six/siege"},
+    {"title":"Valorant","description":"Valorant is a tactical shooting game involving two teams with 5 players in each team.","rage":"🤬","image":"Valorant_Cover.jpeg","site":"https://playvalorant.com/en-us/"},
+    {"title":"League of Legends","description":"League of Legends is a team-based strategy game where two teams of five powerful champions face off to destroy the other's base","rage":"😡","image":"league-of-legends.jpeg","site":"https://www.leagueoflegends.com/en-us/"},
+    {"title":"Apex Legends","description":"Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters with distinctive abilitites, called 'Legends', similar to those of hero shooters","rage":"🙂","image":"Apex_legends_cover.jpeg","site":"https://www.ea.com/games/apex-legends"},
+  ],
+  "Status":"OK"
+}
